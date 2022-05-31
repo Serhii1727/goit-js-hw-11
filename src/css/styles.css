@@ -30,7 +30,7 @@ body {
 
 .input:focus {
     outline: transparent;
-    border-color: rgba(130, 238, 130, 0.555);
+    border-color: rgba(24, 143, 183, 0.555);
 }
 
 .search-button {
